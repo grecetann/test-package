@@ -18,7 +18,6 @@ const HomePage = () => {
       scrollHeight={1000}
       language="ar"
       stripedRows
-      checkItemKey="_id"
       edit={{
         getURL: "cms/categories/id",
         url: "cms/categories",
